@@ -1,5 +1,5 @@
 /**
- * Saiku with DataTables plug-in for jQuery - v0.1.0
+ * Saiku UI with DataTables plug-in for jQuery - v0.1.0
  *
  * Made by Breno Polanski <breno.polanski@gmail.com>
  * Under MIT License
