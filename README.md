@@ -2,4 +2,4 @@
 
 Saiku UI with DataTables plug-in for jQuery.
 
-IN DEVELOPMENT :v:
+> only one experiment :metal:
